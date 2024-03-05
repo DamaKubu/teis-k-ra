@@ -1,2 +1,3 @@
-# teis-k-ra
-scrapint TAIS svetainės ir pristatymo skaidrės
+# teisėkūra
+- statistinių duomenų gavimas iš TAIS svetainės, nes niekur neišeina jų rasti.
+- teisėkuros pristatymo skaidrės
