@@ -5,7 +5,6 @@
 [TLDR postas asmeninė svetainė][https://damakubu.github.io/damakubu/lt/posts/istatymu-skaiciaus-statistika/]
 
 
-[I'm an inline-style link](https://www.google.com)
 # Įstatymų skaičiaus augimas Lietuvoje, bei Anglijoje.
 - Pateikiami rankiniu būdų ištraukti duomenys iš TAIS svetainės(2024-03-05)
 - Anglijos regulation svetainės.(2024-03-05)
